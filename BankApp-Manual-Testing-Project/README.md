@@ -1,6 +1,6 @@
 # 🏦 SecureBank – Manual Testing Project (Portfolio)
 
-A complete, end-to-end **manual QA testing project** built around a sample online/mobile **Banking Application**, created to showcase practical manual testing skills equivalent to **3+ years of QA experience**.
+A complete, end-to-end **manual QA testing project** built around a sample online/mobile **Banking Application**, created to showcase practical manual testing 
 
 This repository contains everything a QA engineer would produce during a real banking-application testing engagement: a test plan, test strategy, module-wise test cases, a requirement traceability matrix, bug reports, test data, and QA checklists.
 
